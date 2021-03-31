@@ -60,6 +60,6 @@
     <properties>
         <org.assertj.core.version>3.9.0</org.assertj.core.version>
         <commons-collections4.version>4.3</commons-collections4.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 </project>
